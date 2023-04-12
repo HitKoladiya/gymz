@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "estherilla";
+  src: url(../public/fonts/estherilla.otf);
+}
+.font-estherilla {
+  font-family: "estherilla";
+}

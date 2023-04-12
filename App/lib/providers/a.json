@@ -1,0 +1,38 @@
+{
+    "yogaDescription": "dswqe2df3rf3r",
+    "daysSelected": [
+        "Monday",
+        "Friday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+    ],
+    "gymDescription": "sqxqxqs",
+    "activate": false,
+    "email": "koladiyahit45@gmail.com",
+    "gymPhotos": {
+        "star topology.png": "https://firebasestorage.googleapis.com/v0/b/gymeverywhere-d0d6d.appspot.com/o/fitnessCenter%2Fkoladiyahit45%40gmail.com%2Fhulk%20fitness%20club%2Fgymphotos%2Fstar%20topology.png?alt=media&token=4b431a37-fbb9-4cf9-bf51-2ca91fd1ea04"
+    },
+    "reject": false,
+    "gymPricePerMonth": "2800",
+    "yogaPricePerDay": "96",
+    "varified": false,
+    "closingTime": "13:00",
+    "City": "Dhoraji",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/gymeverywhere-d0d6d.appspot.com/o/fitnessCenter%2Fkoladiyahit45%40gmail.com%2Fhulk%20fitness%20club%2Flogo%2F26.png?alt=media&token=937b3732-81da-4d8d-8862-71b6aa7e482d",
+    "openingTime": "01:00",
+    "yogaPricePerMonth": "xqx",
+    "State": "Gujarat",
+    "yogaPhotos": {
+        "Screenshot 2022-07-19 234131.png": "https://firebasestorage.googleapis.com/v0/b/gymeverywhere-d0d6d.appspot.com/o/fitnessCenter%2Fkoladiyahit45%40gmail.com%2Fhulk%20fitness%20club%2Fyogaphotos%2FScreenshot%202022-07-19%20234131.png?alt=media&token=8956b9d4-05e3-4c62-8d7a-0dcdeec55c9e"
+    },
+    "gymPricePerDay": "100",
+    "fitnessCenterType": [
+        "gym",
+        "yoga"
+    ],
+    "address": "bkbhjbj, njunkjjnbjni",
+    "mobile": "1234567890",
+    "Name": "hulk fitness club",
+    "Country": "India"
+}
